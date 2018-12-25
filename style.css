@@ -1,0 +1,25 @@
+BODY {
+	color: White;
+	background-color: #FFE4C2;
+	font-family: Verdana, Geneva, Arial, Helvetica; font-size: 10px
+	scrollbar-base-color: #9B3B11;
+	scrollbar-track-color: #5E2811;
+	scrollbar-face-color: #ED8456;
+	scrollbar-darkshadow-color: #9B3B11;
+	scrollbar-shadow-color: #9B3B11;
+	scrollbar-arrow-color: #9B3B11;
+	scrollbar-3dlight-color: #9B3B11;
+}
+
+A {
+	color: White; font-weight: bold
+}
+
+A:HOVER {
+	color: #FDF4E1; font-weight: bold
+}
+
+.Table {
+	background-color: #9B3B11;
+
+}
